@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.min.css"/>
+
+    <link rel="stylesheet" href="css/index.css"/>
+    <script src="bower_components/jquery/jquery.min.js"></script>
+    <script src="bower_components/popper.js/dist/umd/popper.min.js"></script>
+    <script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script src="bower_components/d3/d3.js"></script>
+    <script src="js/index.js"></script>
+</head>
+<body>
+<div class="container-fluid">
+    <div class="row flex-xl-nowrap">
+        <div class="col-lg-12">
+            <div class="text-center">
+                <h1 class="title" id="title">人体肌肉名词测验</h1>
+            </div>
+        </div>
+    </div>
+    <div class="row" style="margin: 20px;">
+        <div class="col-lg-6">
+            <div class="card">
+                <div class="card-header" role="tab" id="headingOne">
+                    <h5 class="mb-0">
+                        前面观
+                    </h5>
+                </div>
+
+                <div id="collapseOne" class="collapse show" role="tabpanel" aria-labelledby="headingOne"
+                     data-parent="#accordion">
+                    <div class="card-body">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="700" height="800" id="leftSVG">
+                            <image xlink:href="images/muscle-front-no-text.png" x="50" y="10" width="625"
+                                   height="758"></image>
+                        </svg>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-6">
+            <div class="card">
+                <div class="card-header" role="tab" id="headingOne">
+                    <h5 class="mb-0">
+                        后面观
+                    </h5>
+                </div>
+
+                <div>
+                    <div class="card-body">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="700" height="800" id="rightSVG">
+                            <image xlink:href="images/muscle-back-no-text.png" x="50" y="10" width="625"
+                                   height="758"></image>
+                        </svg>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+    <div class="row" style="margin: 20px;">
+        <div class="col-lg-6">
+            <div class="card">
+                <div class="card-header" role="tab" id="headingOne">
+                    <h5 class="mb-0">
+                        前面答题区
+                    </h5>
+                </div>
+
+                <div>
+                    <div class="card-body" id="answerLeft">
+                        <div class="row answers"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-6">
+            <div class="card">
+                <div class="card-header" role="tab" id="headingOne">
+                    <h5 class="mb-0">
+                        后面答题区
+                    </h5>
+                </div>
+
+                <div>
+                    <div class="card-body" id="answerRight">
+                       <div class="row answers">
+
+                       </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+    <div class="row" style="margin: 20px;">
+        <div class="col-md-6 col-offset-4">
+            <button class="btn btn-primary" id="startAnswer">开始答题</button>
+            <button class="btn btn-primary" id="submit" style="display: none;">提交</button>
+        </div>
+    </div>
+</div>
+</body>
+</html>
