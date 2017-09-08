@@ -605,427 +605,425 @@ $(function () {
                 title: "桡骨",
                 x: 350,
                 y: 473
-                , id: 95
+                , id: 3
             }, {
                 index: 15,
                 title: "腕骨",
                 x: 358,
                 y: 528
-                , id: 96
+                , id: 3
             }, {
                 index: 16,
                 title: "掌骨",
                 x: 291,
                 y: 636
-                , id: 97
+                , id: 3
             }, {
                 index: 17,
                 title: "指骨",
                 x: 391,
                 y: 641
-                , id: 98
+                , id: 3
             }, {
                 index: 18,
                 title: "股骨",
                 x: 360,
                 y: 678
-                , id: 99
+                , id: 3
             }, {
                 index: 19,
                 title: "髌骨",
                 x: 360,
                 y: 702
-                , id: 100
+                , id: 3
             }, {
                 index: 20,
                 title: "胫骨",
                 x: 361,
                 y: 716
-                , id: 101
+                , id: 3
             }, {
                 index: 21,
                 title: "腓骨",
                 x: 360,
                 y: 737
-                , id: 102
+                , id: 3
             }, {
                 index: 22,
                 title: "跖骨",
                 x: 291,
                 y: 853
-                , id: 103
+                , id: 3
             }, {
                 index: 23,
                 title: "趾骨",
                 x: 295,
                 y: 868
-                , id: 104
+                , id: 3
             }, {
                 index: 24,
                 title: "椎骨",
                 x: 635,
                 y: 410
-                , id: 105
+                , id: 3
             }, {
                 index: 25,
                 title: "髋骨",
                 x: 643,
                 y: 456
-                , id: 106
+                , id: 3
             }, {
                 index: 26,
                 title: "顶骨",
                 x: 647,
                 y: 183
-                , id: 107
+                , id: 3
             }, {
                 index: 27,
                 title: "颞骨",
                 x: 635,
                 y: 223
-                , id: 108
+                , id: 3
             }, {
                 index: 28,
                 title: "枕骨",
                 x: 637,
                 y: 248
-                , id: 109
+                , id: 3
             }, {
                 index: 29,
                 title: "下颌头",
                 x: 644,
                 y: 291
-                , id: 110
+                , id: 3
             }, {
                 index: 30,
                 title: "外耳门",
                 x: 666,
                 y: 314
-                , id: 111
+                , id: 3
             }, {
                 index: 31,
                 title: "颧突",
                 x: 778,
                 y: 353
-                , id: 112
+                , id: 3
             }, {
                 index: 32,
                 title: "颧弓",
                 x: 793,
                 y: 382
-                , id: 113
+                , id: 3
             }, {
                 index: 33,
                 title: "人字缝",
                 x: 780,
                 y: 123
-                , id: 114
+                , id: 3
             }, {
                 index: 34,
                 title: "额骨",
                 x: 880,
                 y: 160
-                , id: 115
+                , id: 3
             }, {
                 index: 35,
                 title: "眶上孔",
                 x: 897,
                 y: 207
-                , id: 116
             }, {
                 index: 36,
                 title: "蝶骨",
                 x: 900,
                 y: 238
-                , id: 117
+                , id: 3
             }, {
                 index: 37,
                 title: "鼻骨",
                 x: 918,
                 y: 253
-                , id: 118
+                , id: 3
             }, {
                 index: 38,
                 title: "眶下孔",
                 x: 909,
                 y: 282
-                , id: 119
+                , id: 3
             }, {
                 index: 39,
                 title: "颧骨",
                 x: 922,
                 y: 294
-                , id: 120
+                , id: 3
             }, {
                 index: 40,
                 title: "上颌骨",
                 x: 919,
                 y: 316
-                , id: 121
+                , id: 3
             }, {
                 index: 41,
                 title: "冠突",
                 x: 922,
                 y: 344
-                , id: 122
+                , id: 3
             }, {
                 index: 42,
                 title: "下颌骨",
                 x: 914,
                 y: 363
-                , id: 123
+                , id: 3
             }, {
                 index: 43,
                 title: "颏孔",
                 x: 917,
                 y: 381
-                , id: 124
+                , id: 3
             }, {
                 index: 44,
                 title: "颈椎",
                 x: 703,
                 y: 443
-                , id: 125
+                , id: 3
             }, {
                 index: 45,
                 title: "胸椎",
                 x: 701,
                 y: 582
-                , id: 126
+                , id: 3
             }, {
                 index: 46,
                 title: "腰椎",
                 x: 701,
                 y: 764
-                , id: 127
+                , id: 3
             }, {
                 index: 47,
                 title: "骶部",
                 x: 701,
                 y: 889
-                , id: 128
+                , id: 3
             }, {
                 index: 48,
                 title: "颈曲",
                 x: 740,
                 y: 444
-                , id: 129
+                , id: 3
             }, {
                 index: 49,
                 title: "腰曲",
                 x: 740,
                 y: 755
-                , id: 130
+                , id: 3
             }, {
                 index: 50,
                 title: "寰椎",
                 x: 809,
                 y: 400
-                , id: 131
+                , id: 3
             }, {
                 index: 51,
                 title: "枢椎",
                 x: 818,
                 y: 433
-                , id: 132
+                , id: 3
             }, {
                 index: 52,
                 title: "隆椎",
                 x: 819,
                 y: 470
-                , id: 133
+                , id: 3
             }, {
                 index: 53,
                 title: "第一胸椎",
                 x: 832,
                 y: 488
-                , id: 134
+                , id: 3
             }, {
                 index: 54,
                 title: "胸曲",
                 x: 862,
                 y: 592
-                , id: 135
+                , id: 3
             }, {
                 index: 55,
                 title: "椎间盘",
                 x: 852,
                 y: 647
-                , id: 136
+                , id: 3
             }, {
                 index: 56,
                 title: "椎间孔",
                 x: 843,
                 y: 692
-                , id: 137
+                , id: 3
             }, {
                 index: 57,
                 title: "第一腰椎",
                 x: 836,
                 y: 738
-                , id: 138
+                , id: 3
             }, {
                 index: 58,
                 title: "横突",
                 x: 823,
                 y: 760
-                , id: 139
+                , id: 3
             }, {
                 index: 59,
                 title: "棘突",
                 x: 826,
                 y: 780
-                , id: 140
+                , id: 3
             }, {
                 index: 60,
                 title: "骶骨",
                 x: 861,
                 y: 861
-                , id: 141
+                , id: 3
             }, {
                 index: 61,
                 title: "骶曲",
                 x: 821,
                 y: 870
-                , id: 142
+                , id: 3
             }, {
                 index: 62,
                 title: "尾骨",
                 x: 840,
                 y: 919
-                , id: 143
+                , id: 3
             }, {
                 index: 63,
                 title: "骨松质",
                 x: 302,
                 y: 1020
-                , id: 144
+                , id: 3
             }, {
                 index: 64,
                 title: "骨膜",
                 x: 302,
                 y: 1097
-                , id: 145
+                , id: 3
             }, {
                 index: 65,
                 title: "骨髓腔",
                 x: 300,
                 y: 1131
-                , id: 146
+                , id: 3
             }, {
                 index: 66,
                 title: "骨髓",
                 x: 300,
                 y: 1170
-                , id: 147
+                , id: 3
             }, {
                 index: 67,
                 title: "骨密质",
                 x: 300,
                 y: 1209
-                , id: 148
+                , id: 3
             }, {
                 index: 68,
                 title: "关节腔",
                 x: 391,
                 y: 1092
-                , id: 149
+                , id: 3
             }, {
                 index: 69,
                 title: "关节软骨",
                 x: 398,
                 y: 1123
-                , id: 150
+                , id: 3
             }, {
                 index: 70,
                 title: "韧带",
                 x: 427,
                 y: 1220
-                , id: 151
+                , id: 3
             }, {
                 index: 71,
                 title: "骨",
                 x: 541,
                 y: 1001
-                , id: 152
+                , id: 3
             }, {
                 index: 72,
                 title: "血管",
                 x: 574,
                 y: 1046
-                , id: 153
+                , id: 3
             }, {
                 index: 73,
                 title: "神经",
                 x: 584,
                 y: 1071
-                , id: 154
+                , id: 3
             }, {
                 index: 74,
                 title: "滑膜层",
                 x: 575,
                 y: 1090
-                , id: 155
+                , id: 3
             }, {
                 index: 75,
                 title: "关节囊",
                 x: 583,
                 y: 1115
-                , id: 156
+                , id: 3
             }, {
                 index: 76,
                 title: "纤维层",
                 x: 548,
                 y: 1206
-                , id: 157
+                , id: 3
             }, {
                 index: 77,
                 title: "骨",
                 x: 486,
                 y: 1246
-                , id: 158
+                , id: 3
             }, {
                 index: 78,
                 title: "胫骨",
                 x: 819,
                 y: 1049
-                , id: 159
+                , id: 3
             }, {
                 index: 79,
                 title: "距骨",
                 x: 826,
                 y: 1077
-                , id: 160
+                , id: 3
             }, {
                 index: 80,
                 title: "足舟骨",
                 x: 805,
                 y: 1091
-                , id: 161
+                , id: 3
             }, {
                 index: 81,
                 title: "楔骨",
                 x: 766,
                 y: 1098
-                , id: 162
+                , id: 3
             }, {
                 index: 82,
                 title: "腓骨",
                 x: 911,
                 y: 1060
-                , id: 163
+                , id: 3
             }, {
                 index: 83,
                 title: "跟骨",
                 x: 932,
                 y: 1176
-                , id: 164
+                , id: 3
             }, {
                 index: 84,
                 title: "足弓",
                 x: 781,
-                y: 1208,
-                id: 165
+                y: 1208
             }],
             questInputNum: 30
         }
@@ -1039,7 +1037,7 @@ $(function () {
             $("#title").text(config.title);
             t.bindStartButton();
             t.initUser();
-           // t.initData();
+            t.initData();
         },
         initData: function () {
             var t = this;
@@ -1062,13 +1060,8 @@ $(function () {
                     console.log(data);
                     if (data && data.responseData && data.responseData.dataList) {
                         var users = data.responseData.dataList;
-                        var departs = [];
-                        var departIds = [];
-                        $.map(users, function (d) {
-                            var obj  = {departmentName: d.departmentName, departmentId: d.departmentId};
-                            if(departIds.indexOf(d.departmentId)<0){
-                                departs.push ({departmentName: d.departmentName, departmentId: d.departmentId});
-                            }
+                        var departs = $.map(users, function (d) {
+                            return {departmentName: d.departmentName, departmentId: d.departmentId};
                         });
                         t.buildSelector(departs, users);
                     }
